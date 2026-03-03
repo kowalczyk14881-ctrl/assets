@@ -1,0 +1,11 @@
+{
+  "name": "USDT",
+  "website": "https://yourwebsite.com",
+  "description": "USDT",
+  "explorer": "https://etherscan.io/token/0x960285066CfA379EDA2fF1A9104E0581367E3c9F",
+  "type": "ERC20",
+  "symbol": "USDT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x960285066CfA379EDA2fF1A9104E0581367E3c9F"
+}
